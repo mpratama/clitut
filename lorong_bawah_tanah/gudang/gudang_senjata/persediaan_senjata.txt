@@ -1,0 +1,5 @@
+pedang	: 100
+tombak	: 100
+busur	: 100
+panah	: 100000
+peledak	: 75

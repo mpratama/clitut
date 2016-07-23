@@ -1,0 +1,5 @@
+beras	: 200 kilo
+daging	: 450 kilo
+cabai	: 300 kilo
+susu	: 500 liter
+gandum	: 250 kilo

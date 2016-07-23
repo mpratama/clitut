@@ -1,0 +1,1 @@
+echo "Gerbang menutup."
